@@ -124,6 +124,54 @@ The goal was to build a complete data pipeline and extract meaningful business i
 * Underperforming markets represent an opportunity for optimization or expansion strategies.
 * Decline in 2020 suggests need for further investigation into external or operational factors.
 
+## 📌 Business Recommendations
+
+### 🌍 1. Diversify Market Dependence
+
+* Revenue is heavily concentrated in a few top markets (e.g., Delhi NCR, Mumbai).
+* Recommendation: Expand investment and marketing efforts in underperforming regions to reduce risk and increase overall stability.
+
+---
+
+### 🧑‍💼 2. Reduce Customer Dependency Risk
+
+* A small number of customers generate a large portion of total revenue.
+* Recommendation: Develop strategies to acquire new customers and diversify the customer base to reduce reliance on key accounts.
+
+---
+
+### 📦 3. Optimize Product Portfolio
+
+* A few products dominate sales while others contribute minimally.
+* Recommendation: Focus on high-performing products while reviewing or discontinuing underperforming ones.
+
+---
+
+### 💰 4. Improve Profitability
+
+* Some markets generate revenue but show low or negative profit margins.
+* Recommendation: Analyze cost structure and pricing strategy in low-profit markets to improve margins.
+
+---
+
+### 📉 5. Investigate Revenue Decline in 2020
+
+* A noticeable drop in revenue is observed in 2020.
+* Recommendation: Conduct deeper analysis to identify causes (e.g., external factors, operational issues) and implement corrective actions.
+
+---
+
+### 📊 6. Stabilize Sales Performance
+
+* Revenue trends show fluctuations across months.
+* Recommendation: Introduce forecasting and demand planning to reduce volatility and improve consistency.
+
+---
+
+### ⚠️ 7. Monitor Zero-Value Transactions
+
+* ~1% of transactions have zero revenue.
+* Recommendation: Review business logic behind such transactions to ensure they are intentional (e.g., promotions) and not data errors.
 
 
 ## 📌 Author
