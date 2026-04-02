@@ -71,14 +71,7 @@ The goal was to build a complete data pipeline and extract meaningful business i
 * Handling real-world data issues (missing values, inconsistencies, anomalies)
 * Feature engineering for business analysis
 
----
 
-## 🔜 Next Steps
-
-* Build interactive dashboard (Tableau / Power BI)
-* Add advanced analysis (customer segmentation, forecasting)
-
----
 
 ## 📌 Author
 
